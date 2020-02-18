@@ -1,7 +1,6 @@
 name: pictures_path_provider
 description: A new Flutter plugin to provide directory path.
 version: 0.0.1
-author: https://github.com/PedroMolinaEspinosa
 homepage: https://github.com/PedroMolinaEspinosa/pictures_path_provider
 
 environment:
